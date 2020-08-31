@@ -1,6 +1,6 @@
 {
   "name": "@j.u.p.iter/http-status",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "dist/lib/http-status.cjs.js",
   "module": "dist/lib/http-status.esm.js",
   "umd:main": "dist/lib/http-status.umd.min.js",
