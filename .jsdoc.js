@@ -5,7 +5,7 @@ module.exports = {
     template: './node_modules/jsdoc-fresh',
     recurse: true,
     verbose: true,
-    destination: './docs/'
+    destination: './html-docs/'
   },
   plugins: [
     'plugins/markdown',

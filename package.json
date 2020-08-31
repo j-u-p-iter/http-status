@@ -17,7 +17,7 @@
     "predocs:html": "yarn run build",
     "predocs:md": "yarn run build",
     "docs:html": "jsdoc -c .jsdoc.js",
-    "docs:md": "jsdoc2md -f dist/lib/http-status.esm.js > DOCS.md"
+    "docs:md": "jsdoc2md -f dist/lib/http-status.esm.js > ./docs/API.md"
   },
   "devDependencies": {
     "@j.u.p.iter/jupiter-scripts": "^1.14.1",
