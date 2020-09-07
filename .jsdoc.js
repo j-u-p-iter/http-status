@@ -7,10 +7,7 @@ module.exports = {
     verbose: true,
     destination: './html-docs/'
   },
-  plugins: [
-    'plugins/markdown',
-    'jsdoc-region-tag'
-  ],
+  plugins: ['plugins/markdown'],
   source: {
     include: [
       './dist/lib/http-status.esm.js',
